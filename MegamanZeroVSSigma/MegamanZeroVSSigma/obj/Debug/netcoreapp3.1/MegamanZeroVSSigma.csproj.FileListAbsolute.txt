@@ -1,0 +1,15 @@
+C:\Users\Omar\source\repos\MegamanZeroVSSigma\MegamanZeroVSSigma\bin\Debug\netcoreapp3.1\MegamanZeroVSSigma.exe
+C:\Users\Omar\source\repos\MegamanZeroVSSigma\MegamanZeroVSSigma\bin\Debug\netcoreapp3.1\MegamanZeroVSSigma.deps.json
+C:\Users\Omar\source\repos\MegamanZeroVSSigma\MegamanZeroVSSigma\bin\Debug\netcoreapp3.1\MegamanZeroVSSigma.runtimeconfig.json
+C:\Users\Omar\source\repos\MegamanZeroVSSigma\MegamanZeroVSSigma\bin\Debug\netcoreapp3.1\MegamanZeroVSSigma.runtimeconfig.dev.json
+C:\Users\Omar\source\repos\MegamanZeroVSSigma\MegamanZeroVSSigma\bin\Debug\netcoreapp3.1\MegamanZeroVSSigma.dll
+C:\Users\Omar\source\repos\MegamanZeroVSSigma\MegamanZeroVSSigma\bin\Debug\netcoreapp3.1\MegamanZeroVSSigma.pdb
+C:\Users\Omar\source\repos\MegamanZeroVSSigma\MegamanZeroVSSigma\obj\Debug\netcoreapp3.1\MegamanZeroVSSigma.csprojAssemblyReference.cache
+C:\Users\Omar\source\repos\MegamanZeroVSSigma\MegamanZeroVSSigma\obj\Debug\netcoreapp3.1\MegamanZeroVSSigma.Form1.resources
+C:\Users\Omar\source\repos\MegamanZeroVSSigma\MegamanZeroVSSigma\obj\Debug\netcoreapp3.1\MegamanZeroVSSigma.csproj.GenerateResource.cache
+C:\Users\Omar\source\repos\MegamanZeroVSSigma\MegamanZeroVSSigma\obj\Debug\netcoreapp3.1\MegamanZeroVSSigma.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\MegamanZeroVSSigma\MegamanZeroVSSigma\obj\Debug\netcoreapp3.1\MegamanZeroVSSigma.AssemblyInfo.cs
+C:\Users\Omar\source\repos\MegamanZeroVSSigma\MegamanZeroVSSigma\obj\Debug\netcoreapp3.1\MegamanZeroVSSigma.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\MegamanZeroVSSigma\MegamanZeroVSSigma\obj\Debug\netcoreapp3.1\MegamanZeroVSSigma.dll
+C:\Users\Omar\source\repos\MegamanZeroVSSigma\MegamanZeroVSSigma\obj\Debug\netcoreapp3.1\MegamanZeroVSSigma.pdb
+C:\Users\Omar\source\repos\MegamanZeroVSSigma\MegamanZeroVSSigma\obj\Debug\netcoreapp3.1\MegamanZeroVSSigma.genruntimeconfig.cache
